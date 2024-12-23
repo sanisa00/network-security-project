@@ -11,6 +11,7 @@ This project is part of the **Network Security** course offered by the Internati
 
 ### Secure Network Design
 - Designed a secure network topology.
+![Network Topology](netsec_topology.png)
 - Created an IP addressing table for the network.
 
 ### Network Security Configurations
